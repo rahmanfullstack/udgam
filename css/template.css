@@ -5,7 +5,7 @@ h4{font-weight:bold;font-size:20px;line-height:150%;color:#333333;}
 h5{font-weight:bold;font-size:20px;}
 h6{color:#ffc107;text-transform:uppercase;font-size:16px;font-weight:700;}
 .container{max-width:1060px;}
-a{color:#ffc107;font-weight:500;outline:0;}
+a{color:red;font-weight:500;outline:0;}
 a:focus, a:hover{text-decoration:none;color:#525252;outline:0;}
 a.dark{color:#000;padding-bottom:5px;border-bottom:1px solid #000;font-weight:600;}
 a.colored{color:#ffc107;padding-bottom:5px;border-bottom:1px solid #ffc107;font-weight:500;}
